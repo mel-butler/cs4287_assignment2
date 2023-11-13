@@ -5,6 +5,10 @@ test: ../test/images
 nc: 2
 names: ['cat', 'dog']
 
+optimizer:
+  type: adamw
+  lr: 0.001
+
 roboflow:
   workspace: uni-lmndf
   project: assignment_2-87kxj

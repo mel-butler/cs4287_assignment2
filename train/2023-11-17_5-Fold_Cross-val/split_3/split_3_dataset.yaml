@@ -1,0 +1,6 @@
+names:
+  0: cat
+  1: dog
+path: train/2023-11-17_5-Fold_Cross-val/split_3
+train: train
+val: val
